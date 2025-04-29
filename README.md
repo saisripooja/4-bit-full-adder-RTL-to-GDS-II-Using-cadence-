@@ -35,21 +35,7 @@ This project is intended to assist **students**, **learners**, and **junior engi
 9. **GDSII Generation**
    - Layout extraction for fabrication.
 
-## Repository Structure
-```
-├── RTL/                   # Verilog RTL Code
-├── Testbench/             # Testbenches for simulation
-├── Synthesis/             # Synthesis reports and netlists
-├── Floorplan/             # Floorplanning outputs
-├── Placement/             # Placement snapshots and logs
-├── CTS/                   # Clock Tree Synthesis outputs
-├── Routing/               # Routing files and final layout
-├── Timing_Analysis/       # STA Reports
-└── README.md              # Project documentation
-```
-
 ## Key Outcomes
-- Achieved **timing closure** (setup and hold) with optimized area and power.
 - DRC (Design Rule Check) and LVS (Layout Versus Schematic) clean layout.
 - Complete ASIC design flow demonstrated using industry tools.
 
