@@ -1,0 +1,12 @@
+irun: *W,BADPRF: The linedebug option may have an adverse performance impact.
+	Top level design units:
+		fulladd
+
+-------------------------------------
+Relinquished control to SimVision...
+ncsim> 
+ncsim> source /home/user/cadence/INCISIVE152/tools/inca/files/ncsimrc
+ncsim> run
+ncsim: *W,RNQUIE: Simulation is complete.
+ncsim> ^C
+ncsim> exit
